@@ -1,0 +1,156 @@
+
+----------------------------------------------
+Title: The Texas Chainsaw Massacre
+Year: 2003
+IMDB Rating: 6.2
+Rotten Tomatoes Rating: 37%
+Country: USA
+Language: English
+Plot: After picking up a traumatized young hitchhiker, five friends find themselves stalked and hunted by a deformed chainsaw-wielding loon and his family of equally psychopathic killers.
+Actors: Jessica Biel, Jonathan Tucker, Erica Leerhsen, Mike Vogel
+----------------------------------------------
+
+----------------------------------------------
+Artist: The Rolling Stones
+Track: Paint It, Black
+Preview Link: https://api.spotify.com/v1/tracks/63T7DJ1AFDD6Bn8VzG6JE8
+Album Name: Aftermath
+----------------------------------------------
+
+----------------------------------------------
+Venue: Delmar Hall
+Location: St. Louis, United States
+Date: 04/01/2019
+----------------------------------------------
+
+----------------------------------------------
+Venue: Turner Hall
+Location: Milwaukee, United States
+Date: 04/02/2019
+----------------------------------------------
+
+----------------------------------------------
+Venue: Varsity Theater
+Location: Minneapolis, United States
+Date: 04/03/2019
+----------------------------------------------
+
+----------------------------------------------
+Venue: Lookout Lounge
+Location: Omaha, United States
+Date: 04/04/2019
+----------------------------------------------
+
+----------------------------------------------
+Venue: The Ogden Theatre 
+Location: Denver, United States
+Date: 04/05/2019
+----------------------------------------------
+
+----------------------------------------------
+Venue: The Depot 
+Location: Salt Lake City, United States
+Date: 04/06/2019
+----------------------------------------------
+
+----------------------------------------------
+Venue: Wonder Ballroom
+Location: Portland, United States
+Date: 04/08/2019
+----------------------------------------------
+
+----------------------------------------------
+Venue: Commodore Ballroom
+Location: Vancouver, Canada
+Date: 04/09/2019
+----------------------------------------------
+
+----------------------------------------------
+Venue: The Showbox
+Location: Seattle, United States
+Date: 04/10/2019
+----------------------------------------------
+
+----------------------------------------------
+Venue: The Regency Ballroom
+Location: Sf, United States
+Date: 04/12/2019
+----------------------------------------------
+
+----------------------------------------------
+Venue: The Hi Hat
+Location: Los Angeles, United States
+Date: 04/13/2019
+----------------------------------------------
+
+----------------------------------------------
+Venue: The Observatory
+Location: Santa Ana, United States
+Date: 04/14/2019
+----------------------------------------------
+
+----------------------------------------------
+Venue: Back to Future Festival
+Location: Glaubitz, Germany
+Date: 07/19/2019
+----------------------------------------------
+
+----------------------------------------------
+Venue: Riez Open Air 
+Location: Bausendorf, Germany
+Date: 07/26/2019
+----------------------------------------------
+
+----------------------------------------------
+Venue: Afdreiht Festival
+Location: Goldenstedt, Germany
+Date: 07/27/2019
+----------------------------------------------
+
+----------------------------------------------
+Venue: Petit Bain
+Location: Paris, France
+Date: 07/28/2019
+----------------------------------------------
+
+----------------------------------------------
+Venue: Redrum
+Location: Stafford, United Kingdom
+Date: 07/31/2019
+----------------------------------------------
+
+----------------------------------------------
+Venue: Rebellion Festival
+Location: Blackpool, United Kingdom
+Date: 08/01/2019
+----------------------------------------------
+
+----------------------------------------------
+Venue: Ter Elstlei
+Location: Duffel, Belgium
+Date: 08/03/2019
+----------------------------------------------
+
+----------------------------------------------
+Venue: Punk Rock Holiday
+Location: Tolmin, Slovenia
+Date: 08/07/2019
+----------------------------------------------
+
+----------------------------------------------
+Venue: Tells Bells Festival
+Location: Villmar, Germany
+Date: 08/09/2019
+----------------------------------------------
+
+----------------------------------------------
+Venue: Tells Bells Festival
+Location: Villmar, Germany
+Date: 08/10/2019
+----------------------------------------------
+
+----------------------------------------------
+Venue: Bay Fest
+Location: Igea Marina, Italy
+Date: 08/12/2019
+----------------------------------------------
