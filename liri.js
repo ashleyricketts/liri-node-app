@@ -65,7 +65,14 @@ function liri() {
     }
 
     //function to run OMDB search
-    if (action === "movie-this") {
+    else if (action === "movie-this") {
+
+        if (!search) {
+            search = "Mr. Nobody";
+        }
+
+        console.log(search);
+
         axios.get("http://www.omdbapi.com/?t=" + search + "&y=&plot=short&apikey=trilogy")
 
             .then(
@@ -95,13 +102,24 @@ function liri() {
                         if (err) {
                             return console.log(err);
                         }
-                    }
-                    );
-                })
+                    });
+                }
+            )
+            .catch((err) => {
+                console.log(err);
+            })
+
     }
 
     //function to run Spotify search
-    if (action === "spotify-this-song") {
+    else if (action === "spotify-this-song") {
+
+        if (!search) {
+            search = "The Sign";
+        }
+
+        console.log(search);
+
         spotify
             .search({ type: 'track', query: search })
             .then(function (data) {
@@ -123,10 +141,11 @@ function liri() {
                         return console.log(err);
                     }
                 })
-                    .catch(function (err) {
-                        console.log(err);
-                    });
+
             })
+            .catch(function (err) {
+                console.log(err);
+            });
     }
 
 

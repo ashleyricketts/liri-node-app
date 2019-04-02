@@ -154,3 +154,46 @@ Venue: Bay Fest
 Location: Igea Marina, Italy
 Date: 08/12/2019
 ----------------------------------------------
+
+----------------------------------------------
+Artist: The Rolling Stones
+Track: Paint It, Black
+Preview Link: https://api.spotify.com/v1/tracks/63T7DJ1AFDD6Bn8VzG6JE8
+Album Name: Aftermath
+----------------------------------------------
+
+----------------------------------------------
+Artist: The Rolling Stones
+Track: Paint It, Black
+Preview Link: https://api.spotify.com/v1/tracks/63T7DJ1AFDD6Bn8VzG6JE8
+Album Name: Aftermath
+----------------------------------------------
+
+----------------------------------------------
+Title: The Texas Chainsaw Massacre
+Year: 2003
+IMDB Rating: 6.2
+Rotten Tomatoes Rating: 37%
+Country: USA
+Language: English
+Plot: After picking up a traumatized young hitchhiker, five friends find themselves stalked and hunted by a deformed chainsaw-wielding loon and his family of equally psychopathic killers.
+Actors: Jessica Biel, Jonathan Tucker, Erica Leerhsen, Mike Vogel
+----------------------------------------------
+
+----------------------------------------------
+Artist: Harry Styles
+Track: Sign of the Times
+Preview Link: https://api.spotify.com/v1/tracks/5Ohxk2dO5COHF1krpoPigN
+Album Name: Harry Styles
+----------------------------------------------
+
+----------------------------------------------
+Title: Mr. Nobody
+Year: 2009
+IMDB Rating: 7.8
+Rotten Tomatoes Rating: 67%
+Country: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+----------------------------------------------
