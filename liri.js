@@ -148,6 +148,20 @@ function liri() {
             });
     }
 
+    else if (action === "do-what-it-says") {
+        fs.readFile("random.txt", "utf8", function(err, data){
+            if (err){
+                console.log(err);
+            }
+
+            console.log(data);
+
+            var dataArr = data.split(",");
+
+            console.log(dataArr);
+        })
+    }
+
 
     else {
         console.log("Please choose an action.");
