@@ -1,4 +1,4 @@
-# LIRI Bot
+# LIRI Bot :robot:
 
 ## Collaborators
 @ashleyricketts
