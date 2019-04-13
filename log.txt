@@ -197,3 +197,485 @@ Language: English, Mohawk
 Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
 Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
 ----------------------------------------------
+
+----------------------------------------------
+Venue: The Hi Hat
+Location: Los Angeles, United States
+Date: 04/13/2019
+----------------------------------------------
+
+----------------------------------------------
+Venue: The Observatory
+Location: Santa Ana, United States
+Date: 04/14/2019
+----------------------------------------------
+
+----------------------------------------------
+Venue: Back to Future Festival
+Location: Glaubitz, Germany
+Date: 07/19/2019
+----------------------------------------------
+
+----------------------------------------------
+Venue: Molotow Musikclub
+Location: Hamburg, Germany
+Date: 07/20/2019
+----------------------------------------------
+
+----------------------------------------------
+Venue: Molotow Musikclub
+Location: Hamburg, Germany
+Date: 07/20/2019
+----------------------------------------------
+
+----------------------------------------------
+Venue: dB's
+Location: Utrecht, Netherlands
+Date: 07/21/2019
+----------------------------------------------
+
+----------------------------------------------
+Venue: Schaubude
+Location: Kiel, Germany
+Date: 07/23/2019
+----------------------------------------------
+
+----------------------------------------------
+Venue: Cassiopeia
+Location: Berlin, Germany
+Date: 07/24/2019
+----------------------------------------------
+
+----------------------------------------------
+Venue: Gleis 22
+Location: Münster, Germany
+Date: 07/25/2019
+----------------------------------------------
+
+----------------------------------------------
+Venue: Riez Open Air 
+Location: Bausendorf, Germany
+Date: 07/26/2019
+----------------------------------------------
+
+----------------------------------------------
+Venue: Afdreiht Festival
+Location: Goldenstedt, Germany
+Date: 07/27/2019
+----------------------------------------------
+
+----------------------------------------------
+Venue: Petit Bain
+Location: Paris, France
+Date: 07/28/2019
+----------------------------------------------
+
+----------------------------------------------
+Venue: New Cross Inn
+Location: London, United Kingdom
+Date: 07/30/2019
+----------------------------------------------
+
+----------------------------------------------
+Venue: Rebellion Festival
+Location: Blackpool, United Kingdom
+Date: 08/01/2019
+----------------------------------------------
+
+----------------------------------------------
+Venue: Redrum
+Location: Stafford, United Kingdom
+Date: 07/31/2019
+----------------------------------------------
+
+----------------------------------------------
+Venue: The Joiners
+Location: Southampton, United Kingdom
+Date: 08/02/2019
+----------------------------------------------
+
+----------------------------------------------
+Venue: Brakrock Ecofest
+Location: Duffel, Belgium
+Date: 08/03/2019
+----------------------------------------------
+
+----------------------------------------------
+Venue: Helios 37
+Location: Köln, Germany
+Date: 08/04/2019
+----------------------------------------------
+
+----------------------------------------------
+Venue: Club Vaudeville
+Location: Lindau (bodensee), Germany
+Date: 08/05/2019
+----------------------------------------------
+
+----------------------------------------------
+Venue: Punk Rock Holiday
+Location: Tolmin, Slovenia
+Date: 08/07/2019
+----------------------------------------------
+
+----------------------------------------------
+Venue: Arena Wien
+Location: Vienna, Austria
+Date: 08/08/2019
+----------------------------------------------
+
+----------------------------------------------
+Venue: Kantine
+Location: Nuremberg, Germany
+Date: 08/09/2019
+----------------------------------------------
+
+----------------------------------------------
+Venue: Tells Bells Festival
+Location: Villmar, Germany
+Date: 08/10/2019
+----------------------------------------------
+
+----------------------------------------------
+Venue: Bay Fest
+Location: Igea Marina, Italy
+Date: 08/12/2019
+----------------------------------------------
+
+----------------------------------------------
+Venue: Rec Room
+Location: Buffalo, United States
+Date: 04/15/2019
+----------------------------------------------
+
+----------------------------------------------
+Venue: Grog Shop
+Location: Cleveland, United States
+Date: 04/16/2019
+----------------------------------------------
+
+----------------------------------------------
+Venue: Bowery Ballroom
+Location: New York, United States
+Date: 04/18/2019
+----------------------------------------------
+
+----------------------------------------------
+Venue: Underground Arts
+Location: Philadelphia, United States
+Date: 04/19/2019
+----------------------------------------------
+
+----------------------------------------------
+Venue: House Of Independents
+Location: Asbury Park, United States
+Date: 04/20/2019
+----------------------------------------------
+
+----------------------------------------------
+Venue: The Sinclair
+Location: Cambridge, United States
+Date: 04/21/2019
+----------------------------------------------
+
+----------------------------------------------
+Venue: Rock & Roll Hotel
+Location: Washington, United States
+Date: 04/23/2019
+----------------------------------------------
+
+----------------------------------------------
+Venue: Cat's Cradle
+Location: Carrboro, United States
+Date: 04/25/2019
+----------------------------------------------
+
+----------------------------------------------
+Venue: Mothlight
+Location: Asheville, United States
+Date: 04/26/2019
+----------------------------------------------
+
+----------------------------------------------
+Venue: PURGATORY AT THE MASQUERADE
+Location: Atlanta, United States
+Date: 04/27/2019
+----------------------------------------------
+
+----------------------------------------------
+Venue: The Basement East
+Location: Nashville, United States
+Date: 04/28/2019
+----------------------------------------------
+
+----------------------------------------------
+Venue: Pappy & Harriet's
+Location: Pioneertown, United States
+Date: 06/08/2019
+----------------------------------------------
+
+----------------------------------------------
+Venue: ENIGMA BAR
+Location: Adelaide, Australia
+Date: 06/21/2019
+----------------------------------------------
+
+----------------------------------------------
+Venue: USANA Amphitheatre
+Location: West Valley City, United States
+Date: 06/29/2019
+----------------------------------------------
+
+----------------------------------------------
+Venue: Doheny State Beach
+Location: Dana Point, United States
+Date: 09/27/2019
+----------------------------------------------
+
+----------------------------------------------
+Venue: Doheny State Beach
+Location: Dana Point, United States
+Date: 09/28/2019
+----------------------------------------------
+
+----------------------------------------------
+Venue: Rec Room
+Location: Buffalo, United States
+Date: 04/15/2019
+----------------------------------------------
+
+----------------------------------------------
+Venue: Grog Shop
+Location: Cleveland, United States
+Date: 04/16/2019
+----------------------------------------------
+
+----------------------------------------------
+Venue: Bowery Ballroom
+Location: New York, United States
+Date: 04/18/2019
+----------------------------------------------
+
+----------------------------------------------
+Venue: Underground Arts
+Location: Philadelphia, United States
+Date: 04/19/2019
+----------------------------------------------
+
+----------------------------------------------
+Venue: House Of Independents
+Location: Asbury Park, United States
+Date: 04/20/2019
+----------------------------------------------
+
+----------------------------------------------
+Venue: The Sinclair
+Location: Cambridge, United States
+Date: 04/21/2019
+----------------------------------------------
+
+----------------------------------------------
+Venue: Rock & Roll Hotel
+Location: Washington, United States
+Date: 04/23/2019
+----------------------------------------------
+
+----------------------------------------------
+Venue: Cat's Cradle
+Location: Carrboro, United States
+Date: 04/25/2019
+----------------------------------------------
+
+----------------------------------------------
+Venue: Mothlight
+Location: Asheville, United States
+Date: 04/26/2019
+----------------------------------------------
+
+----------------------------------------------
+Venue: PURGATORY AT THE MASQUERADE
+Location: Atlanta, United States
+Date: 04/27/2019
+----------------------------------------------
+
+----------------------------------------------
+Venue: The Basement East
+Location: Nashville, United States
+Date: 04/28/2019
+----------------------------------------------
+
+----------------------------------------------
+Venue: Pappy & Harriet's
+Location: Pioneertown, United States
+Date: 06/08/2019
+----------------------------------------------
+
+----------------------------------------------
+Venue: ENIGMA BAR
+Location: Adelaide, Australia
+Date: 06/21/2019
+----------------------------------------------
+
+----------------------------------------------
+Venue: USANA Amphitheatre
+Location: West Valley City, United States
+Date: 06/29/2019
+----------------------------------------------
+
+----------------------------------------------
+Venue: Doheny State Beach
+Location: Dana Point, United States
+Date: 09/27/2019
+----------------------------------------------
+
+----------------------------------------------
+Venue: Doheny State Beach
+Location: Dana Point, United States
+Date: 09/28/2019
+----------------------------------------------
+
+----------------------------------------------
+Venue: Rec Room
+Location: Buffalo, United States
+Date: 04/15/2019
+----------------------------------------------
+
+----------------------------------------------
+Venue: Grog Shop
+Location: Cleveland, United States
+Date: 04/16/2019
+----------------------------------------------
+
+----------------------------------------------
+Venue: Bowery Ballroom
+Location: New York, United States
+Date: 04/18/2019
+----------------------------------------------
+
+----------------------------------------------
+Venue: Underground Arts
+Location: Philadelphia, United States
+Date: 04/19/2019
+----------------------------------------------
+
+----------------------------------------------
+Venue: House Of Independents
+Location: Asbury Park, United States
+Date: 04/20/2019
+----------------------------------------------
+
+----------------------------------------------
+Venue: The Sinclair
+Location: Cambridge, United States
+Date: 04/21/2019
+----------------------------------------------
+
+----------------------------------------------
+Venue: Rock & Roll Hotel
+Location: Washington, United States
+Date: 04/23/2019
+----------------------------------------------
+
+----------------------------------------------
+Venue: Cat's Cradle
+Location: Carrboro, United States
+Date: 04/25/2019
+----------------------------------------------
+
+----------------------------------------------
+Venue: Mothlight
+Location: Asheville, United States
+Date: 04/26/2019
+----------------------------------------------
+
+----------------------------------------------
+Venue: PURGATORY AT THE MASQUERADE
+Location: Atlanta, United States
+Date: 04/27/2019
+----------------------------------------------
+
+----------------------------------------------
+Venue: The Basement East
+Location: Nashville, United States
+Date: 04/28/2019
+----------------------------------------------
+
+----------------------------------------------
+Venue: Pappy & Harriet's
+Location: Pioneertown, United States
+Date: 06/08/2019
+----------------------------------------------
+
+----------------------------------------------
+Venue: ENIGMA BAR
+Location: Adelaide, Australia
+Date: 06/21/2019
+----------------------------------------------
+
+----------------------------------------------
+Venue: USANA Amphitheatre
+Location: West Valley City, United States
+Date: 06/29/2019
+----------------------------------------------
+
+----------------------------------------------
+Venue: Doheny State Beach
+Location: Dana Point, United States
+Date: 09/27/2019
+----------------------------------------------
+
+----------------------------------------------
+Venue: Doheny State Beach
+Location: Dana Point, United States
+Date: 09/28/2019
+----------------------------------------------
+
+----------------------------------------------
+Artist: Harry Styles
+Track: Sign of the Times
+Preview Link: https://api.spotify.com/v1/tracks/5Ohxk2dO5COHF1krpoPigN
+Album Name: Harry Styles
+----------------------------------------------
+
+----------------------------------------------
+Artist: Backstreet Boys
+Track: I Want It That Way
+Preview Link: https://api.spotify.com/v1/tracks/6e40mgJiCid5HRAGrbpGA6
+Album Name: The Hits--Chapter One
+----------------------------------------------
+
+----------------------------------------------
+Title: Clueless
+Year: 1995
+IMDB Rating: 6.8
+Rotten Tomatoes Rating: 68/100
+Country: USA
+Language: English, Spanish
+Plot: A rich high school student tries to boost a new pupil's popularity, but reckons without affairs of the heart getting in the way.
+Actors: Alicia Silverstone, Stacey Dash, Brittany Murphy, Paul Rudd
+----------------------------------------------
+
+----------------------------------------------
+Title: Mr. Nobody
+Year: 2009
+IMDB Rating: 7.8
+Rotten Tomatoes Rating: 67%
+Country: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+----------------------------------------------
+
+----------------------------------------------
+Artist: Harry Styles
+Track: Sign of the Times
+Preview Link: https://api.spotify.com/v1/tracks/5Ohxk2dO5COHF1krpoPigN
+Album Name: Harry Styles
+----------------------------------------------
+
+----------------------------------------------
+Artist: Modest Mouse
+Track: Ocean Breathes Salty
+Preview Link: https://api.spotify.com/v1/tracks/4ToYlykhwpW98KtMIGnWQK
+Album Name: Good News For People Who Love Bad News
+----------------------------------------------
