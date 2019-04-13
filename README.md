@@ -24,3 +24,9 @@
     - Bands in Town
     - OMDB
     - Spotify
+
+## Demo
+![concert-this](/img/concert-this.gif)
+![do-what-it-says](/img/do-what-it-says.gif)
+![movie-this](/img/movie-this.gif)
+![spotify-this-song](/img/spotify-this-song.gif)
